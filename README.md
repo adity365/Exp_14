@@ -1,5 +1,7 @@
 # Experiment 14
 
+AIM : To study and implement Inheritance and its types 
+
 ## Inheritance 
 In general programming, **inheritance** is a concept where one class (called a subclass or derived class) inherits the properties and behaviors (methods) of another class (called a superclass or base class). In OOP, the types of inheritance are:
 
@@ -14,6 +16,8 @@ In general programming, **inheritance** is a concept where one class (called a s
 5. **Hybrid Inheritance**: A combination of two or more types of inheritance (e.g., multiple and multilevel).
 
 These types help create a structured and reusable class hierarchy in object-oriented programming.
+
+# CODE AND OUTPUT :
 
 Experiment 14(a)
 
@@ -57,6 +61,9 @@ int main()
     cout<<b1.branch;
 }
 ```
+OUTPUT:
+![image](https://github.com/user-attachments/assets/f4f1a52e-b4c4-496d-b7c6-d372c9fa18fe)
+
 Experiment 14 (b)
 ```
 // Name --> Aditya Agarwal
@@ -102,6 +109,10 @@ int main()
 }
 
 ```
+OUTPUT:
+![image](https://github.com/user-attachments/assets/63fec285-3fbb-419f-b101-50b6fc84f75e)
+
+
 Experiment 14(c)
 ```
 // Name --> Aditya Agarwal
@@ -177,6 +188,9 @@ int main()
 
 }
 ```
+OUTPUT:
+![image](https://github.com/user-attachments/assets/79efd48e-e450-4781-adb4-4254659e238c)
+
 Experiment 14(d)
 ```
 // Name --> Aditya Agarwal
@@ -253,3 +267,8 @@ int main()
 }
 
 ```
+OUTPUT :
+![image](https://github.com/user-attachments/assets/29b9fb46-8f24-4341-9971-2c58a52ff32f)
+
+CONCLUSION : We have learned and implemented inheritance and its types.
+
